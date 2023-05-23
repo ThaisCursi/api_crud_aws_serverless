@@ -12,7 +12,7 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 # API Node.js com Serverless Framework em ambiente AWS
 
-Este repositório contém o código fonte aprendido no Bootcamp da DIO no dia 22/05/2023 e complementado com a função de deleteItem para finalizar o CRUD. Neste projeto foi criado uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
+Este repositório contém o código fonte aprendido no Bootcamp da DIO no dia 22/05/2023 e complementado com a função de deleteItem para finalizar o CRUD. Neste projeto foi criado uma infraestrutura  em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code.
 
 ## Etapas
 
